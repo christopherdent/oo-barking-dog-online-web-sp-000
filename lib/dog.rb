@@ -9,4 +9,4 @@ class Dog
   end 
   
   def .name
-    
+    dogname 
